@@ -43,7 +43,7 @@
 .calc-screen {
   display: flex;
   background-color: #e0e0e0;
-  box-shadow: inset 5px 5px 7px #949494, inset -5px -5px 7px #ffffff;
+  box-shadow: inset 5px 5px 7px #949496, inset -5px -5px 7px #ffffff;
   color: #333;
   font-size: 32px;
   width: 560px;
